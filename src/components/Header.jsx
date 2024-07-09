@@ -74,7 +74,7 @@ const Header = () => {
                 )}
             <Toolbar className="w-full flex items-center">
                 <div className="flex-1 flex justify-center hover:cursor-pointer"  onClick={()=>navigate('/')}>
-                    <h3 className="text-white font-bold text-2xl">ChatApp</h3>
+                    <h3 className="text-white font-bold text-2xl">ChatWave</h3>
                 </div>
                 
                 <div className="flex items-center space-x-4">
